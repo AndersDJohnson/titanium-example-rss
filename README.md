@@ -1,6 +1,6 @@
 ### Titanium RSS Viewer Example ###
 
-Just a quick custom demo of an RSS feed reader in Appcelerator Titanium, using compiled CoffeeSCript.
+A quick demo of a custom RSS feed reader app in Appcelerator Titanium, using compiled CoffeeScript.
 Disclaimer: Only tested build as a mobile web app from Titanium Studio.
 
 ## Instructions ##
